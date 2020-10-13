@@ -1,0 +1,6 @@
+Palabra      Cantidad
+---------  ----------
+casa                2
+queso               1
+perro               3
+tomate              1
